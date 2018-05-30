@@ -3,4 +3,3 @@ const a = {
   b: 1
 };
 const c = JSON.stringify(a, null, 4);
-console.log(c);
